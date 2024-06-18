@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Engenharia de Dados e Analytics. Mas me aventuro na Ciência de Dados também.
 - 🌱 Sempre estudando Python! E qualquer coisa que meu hiperfoco acabar mirando 😄.
-- 😄 Pronouns: Ela/Dele
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jose-faust-machado/)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucasj_fm/)
