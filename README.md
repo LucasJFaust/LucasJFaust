@@ -1,7 +1,7 @@
-## Olá 👋! Eu sou o Lucas Faust 😁!
+## Olá 👋! Eu sou o Lucas Faust!
 
 - 🔭 Hoje trabalho com Engenharia de Dados e Analytics. Mas me aventuro na Ciência de Dados também.
-- 🌱 Sempre estudando Python! E qualquer coisa que meu hiperfoco acabar mirando 😄.
+- 🌱 Sempre estudando Python! E qualquer coisa que meu hiperfoco acabar mirando.
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jose-faust-machado/)
