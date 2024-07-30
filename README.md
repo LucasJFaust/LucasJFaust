@@ -38,5 +38,4 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
-### Um eterno apaixonado por dados, tecnologias e as infinitas formas de aprender e extrair valor deles! Transformando bits e bytes em poesia analítica e descobertas surpreendentes!
 
