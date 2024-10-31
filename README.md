@@ -1,7 +1,7 @@
-## Olá 👋! Eu sou o Lucas Faust!
+## Hey there 👋! I'm Lucas Faust!
 
-- 🔭 Hoje trabalho com Engenharia de Dados e Analytics. Mas me aventuro na Ciência de Dados também.
-- 🌱 Sempre estudando Python! E qualquer coisa que meu hiperfoco acabar mirando.
+- 🔭 Currently working as a Data Engineer with a deep focus on data architecture, analytics engineering, and scalable data solutions.
+- 🌱 Always leveling up my Python skills! You’ll also catch me honing expertise in SQL, Spark, AWS, and Airflow to build high-performance data pipelines.
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-jose-faust-machado/)
@@ -12,13 +12,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJFaust&hide_progress=true)
 
-## Tecnologias que estou estudando e usando
+## Technologies I'm Studying & Working With
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -34,8 +32,6 @@
   <img align="center" alt="Python" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
 
