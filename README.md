@@ -21,9 +21,9 @@
 ## 🔭 About Me
 
 - 🛠️ Data Engineer focused on **data architecture, analytics engineering, and scalable data solutions**
-- 🛰️ Currently building a **geospatial data lake** to monitor illegal deforestation — turning satellite and remote-sensing data into signal for environmental enforcement
+- 🛰️ Currently building and **managing** a **geospatial data lake** to monitor illegal deforestation — turning satellite and remote-sensing data into signal for environmental enforcement
+- 📐 Civil Engineer by training with an MBA in Data Engineering — years leading construction projects taught me to run data projects with the same rigor: scope, timeline, and stakeholders included
 - 🌱 Constantly leveling up my **Python**, honing **SQL, Spark, AWS, and Airflow** to build high-performance pipelines
-- 🎓 Civil Engineer by training with an MBA in Data Engineering — I like bringing structured, systems-level thinking into data work
 - 📍 Based in Brasília, Brazil
 - 💬 Ask me about data pipelines, geospatial ETL, or project management for tech teams
 
@@ -46,6 +46,16 @@ I'm building a **geospatial data warehouse** designed to detect and track illega
 `🌳 Forest cover` · `🛰️ Satellite imagery` · `📍 Geospatial ETL` · `🚨 Deforestation alerts`
 
 </div>
+
+<br/>
+
+## 📐 Project & Data Management
+
+> *From blueprints to pipelines — the discipline of managing complex builds carries over.*
+
+Before data engineering, I spent years in **civil engineering**, taking on project management responsibilities across public infrastructure works — schedules, scope, stakeholders, and delivery under real-world constraints. That background now shapes how I lead the **data lake and data warehouse initiative** I currently manage: coordinating architecture decisions, timelines, and cross-functional stakeholders the same way I once coordinated a construction site.
+
+`📋 Project planning` · `🧭 Scope & stakeholder management` · `⏱️ Delivery under deadline` · `🏗️ Infra-to-data mindset`
 
 <br/>
 
