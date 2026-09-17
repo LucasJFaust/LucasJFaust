@@ -49,6 +49,36 @@ I'm building a **geospatial data warehouse** designed to detect and track illega
 
 <br/>
 
+## 🤖 AI-Augmented Engineering
+
+> *I don't just watch the AI wave — I build with it, every day.*
+
+AI stopped being a buzzword in my workflow a while ago. I've led a **structured Databricks data migration** with Claude embedded directly into the process inside VS Code — using it as a real engineering partner for refactoring pipelines, validating schema changes, and speeding up delivery, not just autocompleting code. I've also completed **Anthropic's own courses** to go deeper on how to actually work *with* AI systems instead of just prompting them — and yes, this very README was built collaborating with Claude.
+
+<div align="center">
+
+```
+$ whoami --stack
+> Data Engineer x Claude (Anthropic) x VS Code
+> Mission: ship faster, validate smarter, automate the boring parts
+
+$ git log --oneline --grep="migration"
+> feat: Databricks → target migration, structured & AI-assisted
+> refactor: schema validation guided by Claude in VS Code
+> docs: yes, even this README had an AI pair-programmer 🤝
+```
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic%20Courses-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+
+`🧠 AI-assisted migrations` · `⚡ Prompt-driven workflows` · `🔁 Human-in-the-loop engineering`
+
+</div>
+
+<br/>
+
 ## 📐 Project & Data Management
 
 > *From blueprints to pipelines — the discipline of managing complex builds carries over.*
